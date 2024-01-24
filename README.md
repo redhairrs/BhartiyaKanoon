@@ -36,7 +36,7 @@
 
 ## About
 - It is a blockchain based project for storing legal documents. 
-- The major problem of counterfeit certificates can be tackled with the help of VERIFYBHARAT, as it provides a solution to preserve the genuineness of certificate. 
+- The major problem of counterfeit certificates can be tackled with the help of BhartiyaKanoon, as it provides a solution to preserve the genuineness of certificate. 
 - It works on the idea that:
    - Utilizing blockchain technology to create an immutable and transparent ledger for certificate storage.
    - Provides a affordable solution with easy and efficient verification of documents.
